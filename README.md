@@ -1,4 +1,4 @@
-# This video is about how make a countdown timer using python.
+# This video is about how to make a countdown timer using python.
 _____________________________________________________________________
 
 ## Clone the repository
